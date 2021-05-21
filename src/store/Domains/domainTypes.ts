@@ -1,0 +1,6 @@
+/**
+ * Action Types for Domains Actions
+ */
+export const GET_DOMAINS_REQUEST_FAILURE = 'GET_DOMAINS_FAILURE';
+export const GET_DOMAINS_REQUEST = 'GET_DOMAINS_REQUEST';
+export const GET_DOMAINS_REQUEST_SUCCESS = 'GET_DOMAINS_REQUEST_SUCCESS';
